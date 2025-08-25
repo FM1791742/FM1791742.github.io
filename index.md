@@ -7,3 +7,5 @@ title: Home
 - Project 2: More Soon
 ## About Me
 Click here to learn more → [About Me](about.md)
+
+ ## Go To My Coding Noteboook [Coding Notebook](notebook.md)
