@@ -2,10 +2,46 @@
 
 ## Table of Contents
 
-- [Day 1](#day-1)
-  - [Notes](#notes)
+- [Flutter Notes](#flutter-notes)
+  - [What is Flutter?](#what-is-flutter)
   - [Practice](#practice)
-- [Day 2](#day-2)
+- [Key Notes and Definitions](#key-notes-and-definitions)
+## Flutter Notes - [Insert Date]
+
+### 🧱 What is Flutter?
+- Definition:
+- Why is it useful?
+
+---
+
+### 🧩 Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |                                                  |                                           |
+| MaterialApp      |                                                  |                                           |
+| Scaffold         |                                                  |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column           |                                                  |                                           |
+| Row              |                                                  |                                           |
+| Container        |                                                  |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+
+---
+
+### 🎨 Layout and Design Widgets
+- How do you center a widget?
+- How do you align something to the left or right?
+- What widget adds space around content?
+
+
+
+
+
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 ## Markdown Style Guide for Coding Notebooks
