@@ -6,7 +6,7 @@
   - [What is Flutter?](#what-is-flutter)
   - [Practice](#practice)
 - [Key Notes and Definitions](#key-notes-and-definitions)
-## Flutter Notes - [Insert Date]
+## Flutter Notes
 
 ### 🧱 What is Flutter?
 - Definition:
