@@ -6,15 +6,16 @@
   - [What is Flutter?](#what-is-flutter)
   - [Practice](#practice)
 - [Key Notes and Definitions](#key-notes-and-definitions)
+
 ## Flutter Notes
 
-### 🧱 What is Flutter?
-- Definition:
-- Why is it useful?
+### What is Flutter?
+- Definition: A Firebase made by Google for building that work on web, Android, and IOS - with one codebase.
+- Why is it useful? If you build the app once and optimize it for all devices and operating systems, it can save time and money as well
 
 ---
 
-### 🧩 Key Terms and Definitions
+### Key Notes and Definitions
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
