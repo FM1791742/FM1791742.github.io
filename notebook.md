@@ -60,13 +60,13 @@
 |Return| The result a function gives back. | `return total;` |  |  |
 |Scope| Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
 |Class| Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
-|      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
-|      | A variable that belongs to a class/object. | `String name;` |  |  |
-|      | A function that belongs to a class. | `void bark() {}` |  |  |
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+|Object| A specific version of a class. | `Dog myDog = Dog();` |  |  |
+|Property| A variable that belongs to a class/object. | `String name;` |  |  |
+|Method| A function that belongs to a class. | `void bark() {}` |  |  |
+|Constructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+|Abstraction| Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+|Overide| Changing how a built-in or inherited function behaves. | `@override` |  |  |
+|Void| A function that does not return a value. | `void printMessage() {}` |  |  |
 
 
 
