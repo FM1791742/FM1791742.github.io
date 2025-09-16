@@ -6,6 +6,7 @@
   - [What is Flutter?](#what-is-flutter)
   - [Practice](#practice)
   - [Layout and Design Widgets](layout_and_design_widgets)
+  - [Definitions with Structures](#flutter-definitions-with-structures)
   - [Code Definitions](#code_definitions)
 - [Key Notes and Definitions](#key-notes-and-definitions)
 
