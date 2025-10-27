@@ -36,6 +36,10 @@
 |BuildContext| A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
 |super.key| A keyword used to pass a value to the parent widget. | `super.key` |  |  |
 |const| A keyword that means the value won't change and is set once. | `const` |  |  |
+|Scanner | Creates a scanner object to take input from user  | Scanner in = new Scanner(System.in); |  |  |
+| important Scanner | Gies access to Scanner class, required at top | import java.util.Scanner; |  |  |
+| print line statement | prints what's in the parentesis, adds line after | System.out.println("");  |  |  |
+| print statement | prints the content in the parentesis | System.out.print(""); |  |  |
 
 ### What is Flutter?
 - Definition: A Firebase made by Google for building that work on web, Android, and IOS - with one codebase.
