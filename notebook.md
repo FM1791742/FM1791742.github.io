@@ -40,6 +40,19 @@
 | important Scanner | Gies access to Scanner class, required at top | import java.util.Scanner; |  |  |
 | print line statement | prints what's in the parentesis, adds line after | System.out.println("");  |  |  |
 | print statement | prints the content in the parentesis | System.out.print(""); |  |  |
+| Overloaded method/function or constructor | Uses the same ame, but has different parametrs | Pizza(), Pizza(String toppigs) 2 constructors, first is a default cheese pizza, 2nd has 1 topping |  |  |
+| dot notation
+
+
+
+<img width="1381" height="721" alt="image" src="https://github.com/user-attachments/assets/ffa7aa92-7299-4e93-abfe-bd20465cec27" />
+
+
+
+
+
+
+
 
 ### What is Flutter?
 - Definition: A Firebase made by Google for building that work on web, Android, and IOS - with one codebase.
