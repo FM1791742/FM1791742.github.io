@@ -41,7 +41,7 @@
 | print line statement | prints what's in the parentesis, adds line after | System.out.println("");  |  |  |
 | print statement | prints the content in the parentesis | System.out.print(""); |  |  |
 | Overloaded method/function or constructor | Uses the same ame, but has different parametrs | Pizza(), Pizza(String toppigs) 2 constructors, first is a default cheese pizza, 2nd has 1 topping |  |  |
-| dot notation
+| dot notation |
 
 
 
@@ -112,7 +112,25 @@
 |Abstraction| Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 |Overide| Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |Void| A function that does not return a value. | `void printMessage() {}` |  |  |
+|index| location value of each character in a String or list, starting at 0 | "Hello index of 'e' is 1 |  |  |
+| Substring | Part of a longer String | "llo" is a sbString of "Hello" |  |  |
 
+
+
+
+
+
+
+[String notes](#string-notes)
+### String Notes
+ - Strings have indices (plural for index,) which start at 0. "Hello" has indices 0(H) 1(e) 2(1) 3(1) 4(o)
+ - Final index in a String length is -1
+
+
+### String Methods Table
+
+
+<img width="1208" height="401" alt="image" src="https://github.com/user-attachments/assets/6b2344c3-a939-4693-b010-0f29e4ae7ba0" />
 
 
 
